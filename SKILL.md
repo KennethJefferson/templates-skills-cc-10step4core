@@ -19,9 +19,7 @@ Every decision in skill creation filters through these principles:
 ## The 10-Step Process
 
 ```
-UNDERSTAND → EXPLORE → RESEARCH → SYNTHESIZE → DRAFT
-     ↓
-SELF-CRITIQUE → ITERATE → TEST → FINALIZE
+UNDERSTAND → EXPLORE → RESEARCH → SYNTHESIZE → DRAFT → SELF-CRITIQUE → ITERATE → TEST → FINALIZE
 ```
 
 ### Phase 1: Discovery (Steps 1-4)

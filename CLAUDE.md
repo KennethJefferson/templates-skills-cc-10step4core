@@ -20,6 +20,7 @@ Every skill created using this methodology must embody:
 ## File Structure
 
 ```
+README.md                   # Project overview and quick start
 SKILL.md                    # Main skill definition (frontmatter + methodology)
 templates/
   SKILL-TEMPLATE.md         # Template for creating new skills
